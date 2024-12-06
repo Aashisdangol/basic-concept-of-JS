@@ -10,7 +10,7 @@ let anchorAttribute1 = document.querySelector(".link-1")
 anchorAttribute1.textContent = "Variable"
 
 let anchorAttribute2 = document.querySelector(".link-2")
-anchorAttribute2.textContent = "Selectors"
+anchorAttribute2.textContent = "Operators"
 
 let anchorAttribute3 = document.querySelector(".link-3")
 anchorAttribute3.textContent = "Data Types"
