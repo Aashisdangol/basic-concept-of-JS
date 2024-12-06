@@ -81,3 +81,6 @@ let description7 = document.querySelector(".description-7")
 description7.textContent = "Addition: Adds two operands."
 let example7 = document.querySelector(".example-7")
 example7.textContent = "5 + 3 → 8"
+
+
+
