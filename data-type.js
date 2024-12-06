@@ -108,3 +108,6 @@ let description31 = document.querySelector("#description-2-3")
 description31.textContent = "A reusable block of code that performs a specific task."
 let example31 = document.querySelector("#example-2-3")
 example31.textContent = "function greet() { return \"Hi\"; }"
+
+let back = document.getElementById("back-3")
+back.innerText = ("Go Back")

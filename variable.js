@@ -13,3 +13,7 @@ listSection3.textContent = "const: Declares a block-scoped variable that cannot 
 
 let section = document.querySelector(".body-section-1")
 section.textContent = "var name = 'Aashis';  let age = 22;        const city = 'Kathmandu';"
+
+
+let back1 = document.getElementById("back")
+back1.innerText = ("Go Back")

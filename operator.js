@@ -82,5 +82,8 @@ description7.textContent = "Addition: Adds two operands."
 let example7 = document.querySelector(".example-7")
 example7.textContent = "5 + 3 → 8"
 
+let back2 = document.getElementById("back-2")
+back2.innerText = ("Go Back")
+
 
 
